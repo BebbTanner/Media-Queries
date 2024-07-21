@@ -1,9 +1,10 @@
 body {
-    background-color: lightgreen;
-  }
-  
-  @media only screen and (max-width: 600px) {
-    body {
-      background-color: lightblue;
+    padding:  30px;
+    margin: 30px;
+    background: #202020;
+
+    @media screen {
+        background: white;
     }
   }
+  
