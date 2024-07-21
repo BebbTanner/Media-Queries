@@ -1,10 +1,10 @@
-body {
-    padding:  30px;
-    margin: 30px;
-    background: #202020;
+@media only screen and (max-width: 767px) {
+    body { background-color: black;  }}
 
-    @media screen {
-        background: white;
-    }
+@media only screen and (min-width:768px) {
+    body { background-color: white;}}
+
+  #p-test{
+    color: red;
   }
   
