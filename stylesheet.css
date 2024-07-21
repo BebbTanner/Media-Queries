@@ -71,12 +71,3 @@
   .col-10 {width: 83.33%;}
   .col-11 {width: 91.66%;}
   .col-12 {width: 100%;}
-  
-
-    /* For mobile phones: */
-    @media only screen and (max-width: 768px) {
-        [class*="col-"] {
-        width: 100%;
-        }
-  }
-  
